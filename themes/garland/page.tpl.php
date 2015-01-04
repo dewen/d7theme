@@ -2,10 +2,8 @@
 ?>
   <?php print render($page['header']); ?>
 
-
   <div id="wrapper">
     <div id="container" class="clearfix">
-<h1>Page tpl</h1>
 
       <div id="header">
         <div id="logo-floater">
